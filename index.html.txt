@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BURGERIZER - The Best Burgers in Town</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to BURGERIZER</h1>
+        <nav>
+            <ul>
+                <li><a href="#menu">Menu</a></li>
+                <li><a href="#about">About Us</a></li>
+                <li><a href="#contact">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="menu">
+            <h2>Our Amazing Menu</h2>                                                                                           
+            <ul>
+                <li><img src="burger.jpg" alt="Classic Burger"> Classic Burger</li>                                                   
+
+                <li><img src="dodo'sburger.jpg" alt="Dodo's Burger"> Dodo's Burger</li>
+
+                <li><img src="mixbeefburger.jpg" alt="Mix Beef Burger"> Mix Beef Burger</li>
+
+                <li><img src="bbqbeefburger.jpg" alt="BBQ Beef Burger"> BBQ Beef Burger</li>
+
+                <li><img src="mozzarellabeefburger.jpg" alt="Mozzarella Beef Burger"> Mozzarella Beef Burger</li>
+
+                <li><img src="theswissburger.jpg" alt="The Swiss Burger"> The Swiss Burger</li>
+
+                <li><img src="swisssmashedburger.jpg" alt="Swiss Smashed Burger"> Swiss Smashed Burger</li>
+
+                <li><img src="doublesmashedburger.jpg" alt="Double Smashed Burger"> Double Smashed Burger</li>
+
+                <li><img src="zinger.jpg" alt="Zinger Burger"> Zinger Burger</li>
+
+                <li><img src="bristychickenburger.jpg" alt="Bristy Chicken Burger"> Bristy Chicken Burger</li>
+
+                <li><img src="grilledchickenburger.jpg" alt="Grilled Chicken Burger"> Grilled Chicken Burger</li>
+
+                <li><img src="escalopeburger.jpg" alt="Escalope Burger"> Escalope Burger</li>
+
+                <li><img src="mozzarellachickenburger.jpg" alt="Mozzarella Chicken Burger"> Mozzarella Chicken Burger</li>
+
+                <li><img src="fajitaavocasandwich.jpg" alt="Fajita Avoca Sandwich"> Fajita Avoca Sandwich</li>
+
+                <li><img src="regularfajitasandwich.jpg" alt="Regular Fajita Sandwich"> Regular Fajita Sandwich</li>
+
+                <li><img src="tawoukspecialsandwich.jpg" alt="Tawouk Special Sandwich"> Tawouk Special Sandwich</li>
+
+                <li><img src="beefsteaksandwich.jpg" alt="Beef Steak Sandwich"> Beef Steak Sandwich</li>
+
+                <li><img src="bbqbonelesssandwich.jpg" alt="BBQ Bonless Sandwich"> BBQ Boneless Sandwich</li>
+
+                <li><img src="buffalobonelesssandwich.jpg" alt="Buffalo Boneless Sandwich"> Buffalo Boneless Sandwich</li>
+
+                <li><img src="honeymustardboneless.jpg" alt="Honey Mustard Boneless"> Honey Mustard Boneless</li>
+
+                <li><img src="bbqwings.jpg" alt="BBQ Wings"> BBQ Wings</li>
+
+                <li><img src="buffalowings.jpg" alt="Buffalo Wings"> Buffalo Wings</li>
+
+                <li><img src="classicwings.jpg" alt="Classic Wings"> Classic Wings</li>
+
+                <li><img src="honeymustardwings.jpg" alt="Honey Mustard Wings"> Honey Mustard Wings</li>
+
+                <li><img src="fries.jpg" alt="French Fries"> French Fries</li>
+                 
+                <li><img src="loadedfries.jpg" alt="Loaded Fries"> Loaded Fries</li>
+            </ul>
+        </section>
+        <section id="about">
+            <h2>About Us</h2>
+            <p>At BURGERIZER, we take pride in serving the juiciest, tastiest burgers in town. Our secret is simple: fresh ingredients, classic recipes, and a whole lot of love.
+                 Address: Bekaa, Al Marj, Main Road.
+             Email Address:burgerizer.24@gmail.com</p>
+        </section>
+        <section id="contact">
+            <h2>Contact Us</h2>
+            <p>Phone: <a href="tel:+96181418280">+961 81 418 280</a></p>
+            <p>Email: <a href="Burgerizer.24@gmail.com">Burgerizer.24@gmail.com</a></p>
+            <p>Address: Bekaa, Al Marj, Main Road</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 BURGERIZER. All rights reserved.</p>
+    </footer>
+</body>
+</html>
